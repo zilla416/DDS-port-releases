@@ -35,6 +35,7 @@ The game makes its other folders (saves and so on) by itself the first time it r
 1. Download the newest `dds1_*.vpk` from Releases.
 2. Install it with VitaShell over the build you have. Your `ux0:data/dds1` folder (your disc image, saves and the rest) is not touched.
 3. The game needs `libshacccg.suprx` extracted once on your Vita (the shader compiler vitaGL uses). If you ran an earlier build, you have it already.
+   Also turn on Settings > HENkaku Settings > Enable Unsafe Homebrew, if it is off: the game needs it to read that file on some Vitas.
 
 ## Reporting a problem
 
